@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1492671055 source:f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\main.cpp
+	<iostream>
+	"tester.h"
+
+1492388174 f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\mindistance.h
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<limits>
+
+1492311308 f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\mindistancetwo.h
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<limits>
+
+1492408266 source:f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\mindistance.cpp
+	"mindistance.h"
+
+1492311300 source:f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\mindistancetwo.cpp
+	"mindistancetwo.h"
+
+1491867505 source:f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\medianarray.cpp
+	"medianarray.h"
+
+1491376055 f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\medianarray.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1492317221 source:f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\testarray.cpp
+	"testarray.h"
+
+1492319796 f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\testarray.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1492666321 source:f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\tester.cpp
+	"tester.h"
+
+1492405311 f:\onedrive\university\2017\cab301\assignments\assignment 2\assignment2\tester.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"string"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"mindistance.h"
+	"testarray.h"
+
+1492317221 source:f:\documents\cab301 assignment 2\assignment2\testarray.cpp
+	"testarray.h"
+
+1492319796 f:\documents\cab301 assignment 2\assignment2\testarray.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1492734551 source:f:\documents\cab301 assignment 2\assignment2\mindistance.cpp
+	"mindistance.h"
+
+1492388174 f:\documents\cab301 assignment 2\assignment2\mindistance.h
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<limits>
+
+1493108881 source:f:\documents\cab301 assignment 2\assignment2\tester.cpp
+	"tester.h"
+
+1493108582 f:\documents\cab301 assignment 2\assignment2\tester.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"string"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"mindistance.h"
+	"testarray.h"
+
+1493108698 source:f:\documents\cab301 assignment 2\assignment2\main.cpp
+	<iostream>
+	"tester.h"
+

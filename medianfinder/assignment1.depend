@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1491866667 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"medianfinder.h"
+	"mediantester.h"
+
+1491876100 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianfinder.cpp
+	"medianfinder.h"
+
+1491968353 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\mediantester.cpp
+	"mediantester.h"
+
+1491802886 f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianfinder.h
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1491871182 f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\mediantester.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"string"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"medianfinder.h"
+	"medianarray.h"
+
+1491376055 f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianarray.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1491867505 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianarray.cpp
+	"medianarray.h"
+
+1491539282 source:c:\users\sean\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"medianfinder.h"
+	"mediantester.h"
+
+1491533083 c:\users\sean\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianfinder.h
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1491532618 c:\users\sean\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\mediantester.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"string"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"medianfinder.h"
+	"medianarray.h"
+
+1491376055 c:\users\sean\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianarray.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1491376046 source:c:\users\sean\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\medianarray.cpp
+	"medianarray.h"
+
+1491539278 source:c:\users\sean\onedrive\university\2017\cab301\assignments\assignment 1\assignment1\mediantester.cpp
+	"mediantester.h"
+
+1491866668 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\n8865434\n8865434\assignment1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"medianfinder.h"
+	"mediantester.h"
+
+1491802888 f:\onedrive\university\2017\cab301\assignments\assignment 1\n8865434\n8865434\assignment1\medianfinder.h
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1493597192 f:\onedrive\university\2017\cab301\assignments\assignment 1\n8865434\n8865434\assignment1\mediantester.h
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	"string"
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"medianfinder.h"
+	"medianarray.h"
+
+1491376056 f:\onedrive\university\2017\cab301\assignments\assignment 1\n8865434\n8865434\assignment1\medianarray.h
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1491867506 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\n8865434\n8865434\assignment1\medianarray.cpp
+	"medianarray.h"
+
+1491876102 source:f:\onedrive\university\2017\cab301\assignments\assignment 1\n8865434\n8865434\assignment1\medianfinder.cpp
+	"medianfinder.h"
+
